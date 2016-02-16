@@ -1,0 +1,8 @@
+<servlet>
+		<servlet-name>SendRedirectWelcome</servlet-name>
+		<servlet-class>SendRedirectWelcome</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>SendRedirectWelcome</servlet-name>
+		<url-pattern>/SendRedirectWelcome</url-pattern>
+	</servlet-mapping>
