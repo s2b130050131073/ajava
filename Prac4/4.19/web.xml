@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>InsertStatement</servlet-name>
+<servlet-class>InsertStatement</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>InsertStatement</servlet-name>
+<url-pattern>/InsertStatement</url-pattern>
+</servlet-mapping>
+</web-app>

@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>Servletinsertdatabase</servlet-name>
+<servlet-class>Servletinsertdatabase</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>Servletinsertdatabase</servlet-name>
+<url-pattern>/Servletinsertdatabase</url-pattern>
+</servlet-mapping>
+</web-app>

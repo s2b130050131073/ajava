@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>ServletFetchingData</servlet-name>
+<servlet-class>ServletFetchingData</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ServletFetchingData</servlet-name>
+<url-pattern>/ServletFetchingData</url-pattern>
+</servlet-mapping>
+</web-app>
